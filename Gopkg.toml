@@ -1,0 +1,11 @@
+[[constraint]]
+  name = "github.com/aws/aws-lambda-go"
+  version = "v1.2.0"
+
+[[constraint]]
+  name = "github.com/jmoney8080/go-gadget-slack"
+  version = "0.1.0"
+
+[prune]
+  go-tests = true
+  unused-packages = true
